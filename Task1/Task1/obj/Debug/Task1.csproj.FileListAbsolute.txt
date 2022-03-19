@@ -1,0 +1,8 @@
+G:\Projects\BARScourse\Task1\Task1\bin\Debug\Task1.exe.config
+G:\Projects\BARScourse\Task1\Task1\bin\Debug\Task1.exe
+G:\Projects\BARScourse\Task1\Task1\bin\Debug\Task1.pdb
+G:\Projects\BARScourse\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+G:\Projects\BARScourse\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+G:\Projects\BARScourse\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+G:\Projects\BARScourse\Task1\Task1\obj\Debug\Task1.exe
+G:\Projects\BARScourse\Task1\Task1\obj\Debug\Task1.pdb
