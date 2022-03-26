@@ -1,0 +1,9 @@
+[Info]: [String] : LogInfoString
+[Warning]: [String] : LogWarningString
+[Error] : [String] : LogErrorString. Test Exception
+[Info]: [Int32] : LogInfoInt
+[Warning]: [Int32] : LogWarningInt
+[Error] : [Int32] : LogErrorInt. Test Exception
+[Info]: [Double] : LogInfoDouble
+[Warning]: [Double] : LogWarningDouble
+[Error] : [Double] : LogErrorDouble. Test Exception
